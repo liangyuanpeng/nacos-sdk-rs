@@ -6,7 +6,7 @@ edition = "2018"
 license = "apache"
 description = "rust sdk for nacos"
 repository = "https://github.com/liangyuanpeng/nacos-sdk-rs"
-readme = "nacos sdk"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
