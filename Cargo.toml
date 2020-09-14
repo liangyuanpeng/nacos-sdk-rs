@@ -3,6 +3,10 @@ name = "nacos-sdk-rs"
 version = "0.0.1"
 authors = ["Lan Liang <liangyuanpengem@163.com>"]
 edition = "2018"
+license = "apache"
+description = "rust sdk for nacos"
+repository = "https://github.com/liangyuanpeng/nacos-sdk-rs"
+readme = "nacos sdk"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
